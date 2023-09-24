@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], a passionate fourth-year Engineering student with a strong interest in MERN stack development.
+👋 Hi there! I'm Shreyansh Srivastava, a passionate fourth-year Engineering student with a strong interest in MERN stack development.
 
 🚀 I'm on a mission to create innovative web applications that not only solve real-world problems but also deliver an exceptional user experience. My journey in the world of software development has been an exciting one, and I'm always eager to learn and explore new technologies.
 
@@ -13,7 +13,7 @@
 
 🔗 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and don't hesitate to reach out. Together, we can build amazing things.
 
-📫 You can reach me at [Your Email] or connect with me on LinkedIn: [LinkedIn Profile Link].
+📫 You can reach me at <a href="Shreyanshsri2812@gmail.com">Email</a>.
 
 Happy coding! 🚀
 
